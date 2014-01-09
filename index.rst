@@ -3,14 +3,21 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to help.quicktext.io's documentation!
+Welcome to Quicktext's documentation!
 =============================================
 
-Contents:
+.. include README.rst
 
 .. toctree::
    :maxdepth: 2
 
+   src/00-getting-started
+   src/01-automatic-suggestions
+   src/02-tab-completion
+   src/03-sync
+   src/04-templates
+   src/05-tags
+   src/06-search
 
 
 Indices and tables
