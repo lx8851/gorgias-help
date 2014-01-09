@@ -1,3 +1,5 @@
+.. _automatic-suggestions:
+
 Automatic Suggestions
 ======================
 
