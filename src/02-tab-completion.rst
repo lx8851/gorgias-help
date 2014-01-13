@@ -3,7 +3,9 @@
 Tab Completion
 ===============
 
-Tab completion inserts quicktexts by typing a tab completion keyword and then hitting the Tab key. You can see and example of tab completion in the following video:
+Tab completion inserts quicktexts by typing a `tab completion` keyword and then 
+hitting the Tab key. You can see and example of tab completion usage in the
+following video:
 
 [video]
 
@@ -18,6 +20,9 @@ Tab completion is cool, but if you want to disable it for some reason you can do
  4. Extensions
  5. Quicktext for Gmail
  6. Options
- 7. Disable Tab Completion
+ 7. Uncheck `Tab Completion` option.
 
-You can also get to the Options faster by right-clicking the Gmail Quicktext icon in the top right corner and selecting Options.
+You can also get to the Options faster by right-clicking the Quicktext extension
+icon in the top right corner and selecting Options.
+
+.. note:: The `Quicktext` icon only appears when using Gmail.

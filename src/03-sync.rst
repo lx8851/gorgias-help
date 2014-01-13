@@ -1,21 +1,33 @@
 Synchronization
 ===========================
 
-If you have Google Chrome installed on multiple devices you can synchronize QG quicktexts between machines. Here's you do it:
+If you have Google Chrome installed on multiple devices you can synchronize 
+quicktexts between machines. Here's you do it:
 
-Please make sure that you have the QG extension installed on you Google Chrome before following the steps bellow.
+Please make sure that you have the `Quicktext` extension installed on you 
+Google Chrome before following the steps bellow.
 
- 1. Using the same Google Chrome session Login or Register on the https://gmail-quicktext.com/
- 2. Open the Options QG extension options.
+ 1. Open the 'Options' for `Quicktext` from Extensions menu in Google Chrome.
+ 2. `Login` or `Register` if your not yet registered on the https://quicktext.io/ website.
  3. Click on `Sync Now` button.
 
-Now all you quicktexts in the browser should be synchronized with the gmail-quicktext.com website.
+Now all you quicktexts in the browser should be synchronized with the Synchronization server.
 
-Now in order to get your quicktexts syncronized with other machines repeat the steps above (but this time just login to your gmail-quicktext.com account).
+Now in order to get your quicktexts synchronized with other machines repeat 
+the steps above (but this time just Login).
 
 How does synchronization work?
 ---------------------------------
 
-Every time you hit the `Sync Now` button all your quicktexts are uploaded and stored to the gmail-quicktext via a secure SSL connection. All you quicktexts can now be shared between computers or with other members of your team.
+Every time the synchronization process starts all your quicktexts are uploaded
+and stored to the https://quicktext.io/ via a secure SSL connection.
 
-Syncing not only uploads all your quicktexts it also updates the quicktexts that have been modified on other computers or downloads the quicktexts shared by your team.
+All your quicktexts can now be shared between computers or with other members of your team.
+
+Syncing not only uploads all your quicktexts it also updates the quicktexts
+that have been modified on other computers or downloads the quicktexts shared
+by your team.
+
+.. note:: No Quicktexts are ever deleted in the cloud! Unless you specifically
+          demand it. In order to completely delete your data please send an e-mail
+          to support@quicktext.io

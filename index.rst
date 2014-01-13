@@ -1,10 +1,7 @@
-.. help.quicktext.io documentation master file, created by
-   sphinx-quickstart on Fri Jan  3 18:22:06 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Welcome to Quicktext's documentation!
 =============================================
+
+`Quicktext` is Google Chrome Extension that allows Gmail users to write e-mails faster by using :ref:`automatic-suggestions`, :ref:`tab-completion`, :ref:`templates` and other features.
 
 .. include README.rst
 
