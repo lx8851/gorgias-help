@@ -16,7 +16,7 @@ So far there are 2 major use cases for `Quicktext`. Feel free to choose the one 
 Standalone Quicktext Google Chrome extension
 --------------------------------------------------------
 
-If you are a Gmail on your own (you don't have a team) then you don't have to login or register on the https://quicktext.io/ website. You can simply install the extension here and use it on your own.
+If you use Gmail on your own (you don't have a team) then you don't have to login or register on the https://quicktext.io/ website. You can simply install the extension here and use it on your own.
 
 However, if you like store your quicktexts online and synchronize them between devices you can create an account here.
 
