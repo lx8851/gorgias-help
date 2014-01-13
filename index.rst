@@ -3,6 +3,8 @@ Welcome to Quicktext's documentation!
 
 `Quicktext` is Google Chrome Extension that allows Gmail users to write e-mails faster by using :ref:`automatic-suggestions`, :ref:`tab-completion`, :ref:`templates` and other features.
 
+Find out more at: https://quicktext.io/
+
 .. include README.rst
 
 .. toctree::
