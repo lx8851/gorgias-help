@@ -7,10 +7,16 @@ Getting Started
 e-mails faster by using :ref:`automatic-suggestions`, :ref:`tab-completion`,
 :ref:`templates` and other features.
 
+.. raw:: html
 
-Here's a video that shows how to start using `Quicktext`:
-
-{video link}
+    <object width="480" height="385"><param name="movie"
+    value="http://www.youtube.com/v/SBqYZ3KdAUc&hl=en_US&fs=1&rel=0"></param><param
+    name="allowFullScreen" value="true"></param><param
+    name="allowscriptaccess" value="always"></param><embed
+    src="http://www.youtube.com/v/SBqYZ3KdAUc&hl=en_US&fs=1&rel=0"
+    type="application/x-shockwave-flash" allowscriptaccess="always"
+    allowfullscreen="true" width="480"
+    height="385"></embed></object>
 
 Install_ the extension!
 
