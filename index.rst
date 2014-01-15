@@ -41,3 +41,4 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+.. _Install: https://chrome.google.com/webstore/detail/quicktext-for-gmail/fbkpbekdjdelappaffjlbfffidknkeko
