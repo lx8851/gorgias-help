@@ -1,6 +1,10 @@
+.. _search:
+
 Search
 =======
 
-Once you and your team have a lot of quicktexts find the right quicktext can be complicated. Here's where searching comes in handy. You can search by keywords in the title and body of your quicktext, but also you can filter them by using tags.
+Once you and your team start to have a lot of quicktexts finding the right one
+can be complicated. Here's where searching comes in handy.
 
-Find out more about tags in the 'Tags' section.
+You can search by keywords in the `title` or  `body` of your `quicktext`.
+You can also filter quicktexts by using :ref:`tags`.
