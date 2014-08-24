@@ -8,10 +8,10 @@ e-mails faster by using :ref:`automatic-suggestions`, :ref:`tab-completion`,
 .. raw:: html
 
     <object width="480" height="385"><param name="movie"
-    value="http://www.youtube.com/v/SBqYZ3KdAUc&hl=en_US&fs=1&rel=0"></param><param
+    value="http://www.youtube.com/v/G1WZDdT9eNU&hl=en_US&fs=1&rel=0"></param><param
     name="allowFullScreen" value="true"></param><param
     name="allowscriptaccess" value="always"></param><embed
-    src="http://www.youtube.com/v/SBqYZ3KdAUc&hl=en_US&fs=1&rel=0"
+    src="http://www.youtube.com/v/G1WZDdT9eNU&hl=en_US&fs=1&rel=0"
     type="application/x-shockwave-flash" allowscriptaccess="always"
     allowfullscreen="true" width="480"
     height="385"></embed></object>
