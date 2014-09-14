@@ -80,7 +80,7 @@ Which given multiple addresses in the `To` field will result in this rendering::
 What is behind all this?
 --------------------------
 
-The power of the templates is given by the `Handlebars <http://handlebarsjs.com/`_
+The power of the templates is given by the `Handlebars <http://handlebarsjs.com/>`_
 template library.
 
 
