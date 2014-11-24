@@ -1,4 +1,4 @@
-Welcome to Quicktext's documentation!
+Welcome to Gorgias's documentation!
 =====================================
 
-Documentation and help for the quicktext.io website.
+Documentation and help for the gorgias.io website.

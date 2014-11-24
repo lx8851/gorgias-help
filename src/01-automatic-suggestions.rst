@@ -7,8 +7,8 @@ Automatic suggestions helps finding the correct quicktext as you type.
 Imagine that you have a quicktext that explains to your users that they have 
 to check their spam inbox::
 
-    Quicktext Title: Add note about Spam folder
-    Quicktext Body: Note: If you can't find the e-mail, please check your
+    Gorgias Title: Add note about Spam folder
+    Gorgias Body: Note: If you can't find the e-mail, please check your
                     'Spam' folder in order to find the missing e-mail.
 
 Now when you type spam in the body of your e-mail a small popup will appear 
@@ -36,12 +36,12 @@ reason you can do so by going to:
  2. Customize and Control Google Chrome (look for this icon: {TODO})
  3. Tools
  4. Extensions
- 5. Find `Quicktext` extension in the list
+ 5. Find `Gorgias` extension in the list
  6. Options
  7. Uncheck `Automatic Suggestions`
 
-You can also get to the Options faster by right-clicking the `Quicktext` icon
+You can also get to the Options faster by right-clicking the `Gorgias` icon
 in the top right corner (inside the Navigation bar. Next to the 'Bookmarks' star icon) 
 and selecting Options.
 
-.. note:: The `Quicktext` icon only appears when using Gmail.
+.. note:: The `Gorgias` icon only appears when using Gmail.

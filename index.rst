@@ -1,7 +1,7 @@
-Welcome to Quicktext's documentation!
+Welcome to Gorgias's documentation!
 =============================================
 
-`Quicktext` is Google Chrome extension that allows Gmail users to write
+`Gorgias` is Google Chrome extension that allows Gmail users to write
 e-mails faster by using :ref:`automatic-suggestions`, :ref:`tab-completion`,
 :ref:`templates` and other features.
 
@@ -18,7 +18,7 @@ e-mails faster by using :ref:`automatic-suggestions`, :ref:`tab-completion`,
 
 Install_ the extension!
 
-Find out more at: https://quicktext.io/
+Find out more at: https://gorgias.io/
 
 .. include README.rst
 

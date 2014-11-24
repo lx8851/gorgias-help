@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# help.quicktext.io documentation build configuration file, created by
+# help.gorgias.io documentation build configuration file, created by
 # sphinx-quickstart on Fri Jan  3 18:22:06 2014.
 #
 # This file is execfile()d with the current directory set to its
@@ -47,7 +47,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'help.quicktext.io'
+project = u'help.gorgias.io'
 copyright = u'2014, Alexandru Plugaru'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -180,7 +180,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'helpquicktextiodoc'
+htmlhelp_basename = 'helpgorgiasdoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -200,7 +200,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'helpquicktextio.tex', u'help.quicktext.io Documentation',
+  ('index', 'helpgorgias.tex', u'help.gorgias.io Documentation',
    u'Alexandru Plugaru', 'manual'),
 ]
 
@@ -230,7 +230,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'helpquicktextio', u'help.quicktext.io Documentation',
+    ('index', 'helpgorgias', u'help.gorgias.io Documentation',
      [u'Alexandru Plugaru'], 1)
 ]
 
@@ -244,7 +244,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'helpquicktextio', u'help.quicktext.io Documentation',
+  ('index', 'helpquicktextio', u'help.gorgias.io Documentation',
    u'Alexandru Plugaru', 'helpquicktextio', 'One line description of project.',
    'Miscellaneous'),
 ]

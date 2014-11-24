@@ -18,11 +18,11 @@ Tab completion is cool, but if you want to disable it for some reason you can do
  2. Customize and Control Google Chrome
  3. Tools
  4. Extensions
- 5. Quicktext for Gmail
+ 5. Gorgias for Gmail
  6. Options
  7. Uncheck `Tab Completion` option.
 
-You can also get to the Options faster by right-clicking the Quicktext extension
+You can also get to the Options faster by right-clicking the Gorgias extension
 icon in the top right corner and selecting Options.
 
-.. note:: The `Quicktext` icon only appears when using Gmail.
+.. note:: The `Gorgias` icon only appears when using Gmail.
