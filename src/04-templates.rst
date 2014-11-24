@@ -3,7 +3,11 @@
 Templates
 =========
 
-`Templates` are a cool way to customize your quicktexts by using template variables. 
+`Templates` are the primary block of the Gorgias Google Chrome extension.
+
+One distinction compared to the :ref:`alternatives` is that it supports custom variables
+that are replaced on template execution.
+
 The simplest example can be summarized as follows:
 
 When you write an e-mail to someone it's usually a good idea to address that
@@ -24,22 +28,22 @@ The following goes into the body of the quicktext::
 
     Hello {{to.0.firstname}},
 
-When using the `quicktext` above it will generate the following result::
+When using the `template` above it will generate the following result::
 
     Hello Jane,
 
 
 Now, let's break down the template above:
 
- 1. '{{' means that the template started
- 2. 'to' - is actually the "To" field in the e-mail. So if you have say: 
+ 1. '{{' marks the start of the template variable.
+ 2. 'to' - refers to the "To" field in the e-mail. So if you have say:
      Jane Doe <jane@doe.org> in the 'to' variable correspond with Jane's address.
  3. '.0' means that we only refer to the first address. So if we have multiple
      addresses in the 'To' field then we refer only to the first one and not the
      rest of them.
- 4. '.firstname' meas that given the first to address insert only the 
+ 4. '.firstname' referst to the first to address insert only the
      'firstname' in the template. We could have said 'name' - would've include the full name.
- 2.  '}}' end of template.
+ 2.  '}}' marks end of template variable.
 
 So once again, if we have 'Jane Doe <jane@doe.org>' in the `To` field then the
 resulting template will look like this::
@@ -76,9 +80,11 @@ Which given multiple addresses in the `To` field will result in this rendering::
         - Last name Doe,
         - Email jane@doe.org
 
+.. note:: If the variable value is missing (Ex: no First Name for the contact) the variable is replace with an empty string.
+
 
 What is behind all this?
---------------------------
+------------------------
 
 The power of the templates is given by the `Handlebars <http://handlebarsjs.com/>`_
 template library.
