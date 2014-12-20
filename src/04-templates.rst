@@ -26,7 +26,7 @@ Now make it easier to write the 'Hello Jane' part you can simply create a
 template and use the template variables.
 The following goes into the body of the quicktext::
 
-    Hello {{to.0.firstname}},
+    Hello {{to.0.first_name}},
 
 When using the `template` above it will generate the following result::
 
@@ -41,8 +41,8 @@ Now, let's break down the template above:
  3. '.0' means that we only refer to the first address. So if we have multiple
      addresses in the 'To' field then we refer only to the first one and not the
      rest of them.
- 4. '.firstname' referst to the first to address insert only the
-     'firstname' in the template. We could have said 'name' - would've include the full name.
+ 4. '.first_name' referst to the first to address insert only the
+     'first_name' in the template. We could have said 'name' - would've include the full name.
  2.  '}}' marks end of template variable.
 
 So once again, if we have 'Jane Doe <jane@doe.org>' in the `To` field then the
