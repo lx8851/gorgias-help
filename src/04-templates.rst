@@ -82,6 +82,36 @@ Which given multiple addresses in the `To` field will result in this rendering::
 
 .. note:: If the variable value is missing (Ex: no First Name for the contact) the variable is replace with an empty string.
 
+Complete list of available variables
+------------------------------------
+
+As you know by now the `To` and `From` fields are a list and `0` is the index of the first item in that list.
+
+* `To` field
+    * {{to.0.email}}
+    * {{to.0.name}}
+    * {{to.0.last_name}}
+    * {{to.0.first_name}}
+
+* `From` field
+    * {{from.0.email}}
+    * {{from.0.name}}
+    * {{from.0.last_name}}
+    * {{from.0.first_name}}
+
+* `CC` field
+    * {{cc.0.email}}
+    * {{cc.0.name}}
+    * {{cc.0.last_name}}
+    * {{cc.0.first_name}}
+* `BCC` field
+    * {{bcc.0.email}}
+    * {{bcc.0.name}}
+    * {{bcc.0.last_name}}
+    * {{bcc.0.first_name}}
+
+* {{subject}} - subject content of the message
+
 
 What is behind all this?
 ------------------------
